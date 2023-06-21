@@ -1,4 +1,4 @@
 *.csv
 *.txt
 *.pyc
-*.env
+.env
